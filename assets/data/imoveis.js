@@ -4,10 +4,7 @@ window.IMOVEIS_DATA = [
     titulo: 'Apartamento-2-quartos-San-Jose',
     descricaoCurta: 'Apartamento com 2 quartos e 1 banheiro, na San Jose',
     descricaoCompleta:
-      'O imóvel oferece:
-2 quartos, sendo um com sacada, Cozinha com armários, Banheiro com box e espelho, ambiente bem arejado, com muitas janelas e ótima ventilação,Estacionamento disponível 🚗
-🐈✅ Aceita pet 
-❄️❌Não tem Ar-Condicionado',
+      'O imóvel oferece: 2 quartos, sendo um com sacada, Cozinha com armários, Banheiro com box e espelho, ambiente bem arejado, com muitas janelas, Estacionamento disponível,  Aceita pet, sem Ar-condicionado
     valor: 'GS 2.400.000',
     regiao: 'San José UCP',
     tipo: 'Apartamento'
