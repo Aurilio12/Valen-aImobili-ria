@@ -1,21 +1,21 @@
 window.IMOVEIS_DATA = [
   {
-    id: 'reserva-lago-dourado',
-    titulo: 'Reserva Lago Dourado',
-    descricaoCurta: 'Casa premium com 4 suítes e vista definitiva para o Lago UCP.',
+    id: 'Apartamento-2-quartos-San-Jose',
+    titulo: 'Apartamento-2-quartos-San-Jose',
+    descricaoCurta: 'Apartamento com 2 quartos e 1 banheiro, na San Jose',
     descricaoCompleta:
-      'Residência de alto padrão com acabamentos em mármore travertino, integração total entre áreas internas e externas, adega climatizada e piscina com borda infinita. Projeto exclusivo para quem busca luxo, segurança e localização privilegiada.',
-    valor: 'USD 780.000',
-    regiao: 'Lago UCP',
-    tipo: 'Casa de Luxo',
-    area: '520 m²',
-    quartos: 4,
-    banheiros: 6,
-    garagem: 3,
+      'O imóvel oferece:
+2 quartos, sendo um com sacada, Cozinha com armários, Banheiro com box e espelho, ambiente bem arejado, com muitas janelas e ótima ventilação,Estacionamento disponível 🚗
+🐈✅ Aceita pet 
+❄️❌Não tem Ar-Condicionado',
+    valor: 'GS 2.400.000',
+    regiao: 'San José UCP',
+    tipo: 'Apartamento'
+    quartos: 2,
+    banheiros: 1,
+    garagem: 1,
     imagens: [
-      'https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1400&q=80',
-      'https://images.unsplash.com/photo-1617104551722-3b2d5136645f?auto=format&fit=crop&w=1400&q=80',
-      'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1400&q=80'
+      'https://i.postimg.cc/zDwzdN8f/teste.png'
     ],
     video: 'https://www.youtube.com/embed/qN6VQj9L9mA'
   },
