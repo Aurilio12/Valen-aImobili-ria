@@ -1,19 +1,5 @@
 window.IMOVEIS_DATA = [
-  {
-    id: 'Apartamento-2-quartos-San-Jose',
-    titulo: 'Apartamento 2 quartos San-Jose',
-    descricaoCurta: 'Apartamento com 2 quartos e 1 banheiro, na San Jose',
-    descricaoCompleta:'O imóvel oferece: 2 quartos, sendo um com sacada, Cozinha com armários, Banheiro com box e espelho,ambiente bem arejado, com muitas janelas, Estacionamento disponível,  Aceita pet, sem Ar-condicionado. 
-    valor: 'GS 2.400.000',
-    regiao: 'UCP - San José',
-    tipo: 'Apartamento',
-    quartos: 2,
-    banheiros: 1,
-    garagem: 1,
-    imagens: [
-      'https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1400&q=80'],
-    video: 'https://www.youtube.com/embed/qN6VQj9L9mA'
-  },
+
   {
     id: 'torre-san-jose-executive',
     titulo: 'Torre San José Executive',
