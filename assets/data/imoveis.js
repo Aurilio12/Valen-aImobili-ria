@@ -1,18 +1,18 @@
 window.IMOVEIS_DATA = [
 
   {
-    id: 'torre-san-jose-executive',
-    titulo: 'Torre San José Executive',
-    descricaoCurta: 'Apartamento sofisticado próximo à UCP-San Jose, ideal para investidores.',
+    id: 'Apartamento-san-jose',
+    titulo: 'Apartamento 2 quartos',
+    descricaoCurta: 'Apartamento na San Jose.',
     descricaoCompleta:
-      'Unidade com varanda gourmet, automação residencial, isolamento acústico e infraestrutura completa de lazer no condomínio. Excelente opção para moradia executiva ou renda de locação premium em Ciudad del Este.',
-    valor: 'USD 265.000',
+      '2 quartos, sendo um com sacada, Cozinha com armários, Banheiro com box e espelho, Ambiente bem arejado, com muitas janelas e ótima ventilação, aceita pet, sem ar-condicionado',
+    valor: 'GS 2.0000.000',
     regiao: 'UCP-San Jose',
     tipo: 'Apartamento',
-    area: '142 m²',
-    quartos: 3,
-    banheiros: 3,
-    garagem: 2,
+    quartos: 2,
+    banheiros: 1,
+    Pet: sim,
+    garagem: 1,
     imagens: [
       'https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1400&q=80',
       'https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1400&q=80',
